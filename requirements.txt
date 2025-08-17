@@ -1,0 +1,11 @@
+ipykernel
+interpret
+joblib
+lime
+matplotlib
+numpy<2
+pandas
+scikit-learn
+rpy2
+tensorflow
+statsmodels
